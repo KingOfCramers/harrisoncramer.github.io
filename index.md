@@ -2,34 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Web Applications
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cloture](https://www.cloture.app)
+<img src="images/cloture.png?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[MasamiCooks](http://example.com/)
+<img src="images/masamicooks.png?raw=true"/>
 
 ---
 
-
-
+[Typescript API](https://github.com/KingOfCramers/typeorm-typegrapqhl-api)
+<img src="images/api.png?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+[Unemployment Crisis](https://bl.ocks.org/KingOfCramers/raw/5d85e883d33a9e6bdad030e54c75ab12/)
+<img src="images/unemployment.png?raw=true"/>
+
+---
